@@ -34,6 +34,6 @@ I am currently collaborating with **Emircom**, developing high-impact software s
 ### 🤝 Connect with Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/zayed-sheikh-trizform/)
-* 📧 [Email](zayedsheikh001@gmail.com)
+* 📧 [Email](mailto:zayedsheikh001@gmail.com)
 
 *"Transforming complex data into scalable, real-world solutions."*
