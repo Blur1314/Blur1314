@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Zayed Sheikh👋 
 
 🚀 **AI/ML Engineering Student** & **Software Developer** delivering enterprise-grade solutions for major organizations in the UAE.
 
@@ -6,7 +6,7 @@
 
 ### 🌟 Featured Impact
 I am currently collaborating with **Emircom**, developing high-impact software solutions utilized by premier UAE enterprises and government bodies, including:
-* 🚇 **RTA (Roads and Transport Authority)**
+* 🚇 **RTA (Road and Transport Authority)**
 * 🏛️ **Dubai Municipality**
 * 📞 **e& (Etisalat)**
 
