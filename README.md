@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋 
 
-<!--
-**Blur1314/Blur1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI/ML Engineering Student** & **Software Developer** delivering enterprise-grade solutions for major organizations in the UAE.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Impact
+I am currently collaborating with **Emircom**, developing high-impact software solutions utilized by premier UAE enterprises and government bodies, including:
+* 🚇 **RTA (Roads and Transport Authority)**
+* 🏛️ **Dubai Municipality**
+* 📞 **e& (Etisalat)**
+
+---
+
+### 🎓 Education & Credentials
+
+* 🎓 **B.Tech in Computer Science Engineering (AI & ML)** | *In Progress*
+* 🏫 **12th Grade (CBSE)** | *Completed*
+* 📜 **Python Institute Credentials (OpenEDG):**
+  * Certified Associate in Python Programming (**PCEP**)
+  * Certified Professional in Python Programming (**PCPP**)
+
+---
+
+### 🛠️ Technical Toolkit
+
+* **Languages:** Python (Advanced/Professional), SQL, C++
+* **AI/ML:** Predictive Modeling, Data Analysis, Neural Networks
+* **Tools & Frameworks:** Git/GitHub, Enterprise Software Architecture
+
+---
+
+
+### 🤝 Connect with Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/zayed-sheikh-trizform/)
+* 📧 [Email](zayedsheikh001@gmail.com)
+
+*"Transforming complex data into scalable, real-world solutions."*
