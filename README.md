@@ -18,7 +18,8 @@ My ultimate goal? Building meaningful technology that grows with purpose and act
 * 🤖 **CS50’s Introduction to Artificial Intelligence with Python** | *Harvard (Completed)*
 * 📜 **Certified Professional in Python Programming (PCPP)** | *Python Institute*
 * 📜 **Certified Associate in Python Programming (PCEP)** | *Python Institute*
-* 🏫 **12th Grade (CBSE)** | *Completed*
+* 🏫 **12th Grade (CBSE)(96%)** | *Completed*
+* 🏅 **Awarded Golden Visa by UAE government
 
 ### Tech Stack
 
