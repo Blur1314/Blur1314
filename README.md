@@ -19,7 +19,7 @@ My ultimate goal? Building meaningful technology that grows with purpose and act
 * 📜 **Certified Professional in Python Programming (PCPP)** | *Python Institute*
 * 📜 **Certified Associate in Python Programming (PCEP)** | *Python Institute*
 * 🏫 **12th Grade (CBSE)(96%)** | *Completed*
-* 🏅 **Awarded Golden Visa by UAE government
+* 🏅 **Awarded Golden Visa by UAE government**
 
 ### Tech Stack
 
